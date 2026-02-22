@@ -1,9 +1,4 @@
-//
-//  Lab04UITestsLaunchTests.swift
-//  Lab04UITests
-//
-//  Created by MD.Ashraful Islam  on 22/2/26.
-//
+
 
 import XCTest
 
