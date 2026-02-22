@@ -1,9 +1,4 @@
-//
-//  Lab04Tests.swift
-//  Lab04Tests
-//
-//  Created by MD.Ashraful Islam  on 22/2/26.
-//
+
 
 import Testing
 @testable import Lab04
